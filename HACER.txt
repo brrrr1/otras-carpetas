@@ -8,8 +8,10 @@ FOTOS LOTES
 
 HACER IMPORTS
 
+
 PROBAR 0 Y NEGATIVOS
 
+meter check añadir usuario
 
 EDITAR USUARIO = EDITAR EMPLEADO?
 
